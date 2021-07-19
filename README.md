@@ -8,11 +8,11 @@ Hello all and welcome to the Aletsch 2021 trip.
 Details
 -------
 
-**Dates:** Saturday, July 24th - Sunday, July 25th.
+**Dates:** Friday, July 23rd - Sunday, July 25th.
 
 **Hotel:** [Hotel Alpina](https://www.alpinafiescheralp.ch/), Fiesheralp.
 
-Accommodation is confirmed for Saturday night for Justin, George, Dara and Henrik - no further action is needed.
+Accommodation is confirmed for Friday & Saturday night for Justin, George, Dara and Henrik - no further action is needed.
 
 **Travel:** see below for details and price.
 
@@ -34,11 +34,11 @@ While there are cable cars up from Fiescheralp to the peaks, there's no way down
 Journey there
 -------------
 
-Leaving on the 7:02 IC8 (platform 31) from the HB, we then change at Brig, continue to Fiesch and then take the cable car up to Fiescheralp.
+Leaving on the 18:02 IC8 (platform 31) from the HB, we then change at Brig, continue to Fiesch and then take the cable car up to Fiescheralp.
 
 ![img.png](train-journey.png)
 
-You can find the above journey details [here](https://goo.gl/maps/MJL9upWCdWRqRH6a7) on Google maps.
+You can find the above journey details [here](https://goo.gl/maps/GuynbrjeGM6h2t8s5a7) on Google maps.
 
 With a Halbtax, the best price for a return ticket is two Saver Day Passes that cost Fr. 54 each, i.e. **Fr. 108** in total.
 
