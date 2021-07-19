@@ -14,7 +14,7 @@ Details
 
 Accommodation is confirmed for Saturday night for Justin, George, Dara and Henrik - no further action is needed.
 
-Travel: see below for details and price.
+**Travel:** see below for details and price.
 
 Fiescheralp
 -----------
@@ -51,7 +51,7 @@ I'm proposing this for our walk on Saturday. We set out from Fiescheralp (A) con
 
 ![img.png](first-walk.png)
 
-If you're wondering about the part of the route marked in yellow and the part marked in red and white - the red and white bit is closed at the moment and the yellow marked bit is the alternative.
+If you're wondering about the part of the route marked in yellow and the part marked in red and white - the red and white bit is no longer accessible (due to rock slides) and the yellow marked bit is the alternative.
 
 You can find the all the area's hiking routes marked [here](https://map.schweizmobil.ch/?lang=en&land=wanderland&etappe=39.02&photos=yes&bgLayer=pk&logo=yes&season=summer&resolution=4.68&E=2647713&N=1139977&layers=Wanderland) on the SchweizMobil site.
 
@@ -68,8 +68,8 @@ The above walk is one I pieced together from the marked routes on SchweizMobil a
 
 However, the best site I found for complete suggested routes is the tourist site for Aletsch Arena area (which includes Fiescheralp). You can find their suggested walks [here](https://www.aletscharena.ch/en/activities/walking#cat=Hiking-main,Hiking%20Trail,Nature%20Trail&filter=r-fullyTranslatedLangus-,r-onlyOpened-undefined,sb-sortedBy-0&zc=14,8.10436,46.42874). Just scroll down to the "Walking Suggestions" section. As often seems to be the case with such sites, the interactive map looks great but is rather fiddly to work with (and impossible on a mobile phone or tablet).
 
-As noted above, parts of these routes (the bits that involve Eggishorn or the mountain ridges) are closed due to the volume of snow.
-
 ![img.png](aletsch-arena-walks.png)
+
+As noted above, parts of these routes (the bits that involve Eggishorn or the mountain ridges) are closed due to the volume of snow.
 
 That's it - if you've read to here, I'm proud of you. Look forward to seeing you all there.
